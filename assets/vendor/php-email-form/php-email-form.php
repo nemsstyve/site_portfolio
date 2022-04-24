@@ -1,4 +1,4 @@
-<?php include("/site_portfolio/public/index.html"); ?>
+<?php include("/index.html"); ?>
 
     <div class='sucess'>
             <h3>Vous avez envoyer votre message avec succés.</h3>
